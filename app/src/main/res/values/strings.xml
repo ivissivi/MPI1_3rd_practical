@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">ThirdPractical</string>
-    <string name="button">Button</string>
+    <string name="back">Back</string>
     <string name="save">Save</string>
     <string name="go_to_2_nd">Go to 2-nd</string>
     <string name="first_activity">First Activity</string>
+    <string name="textview">Second Activity</string>
 </resources>
