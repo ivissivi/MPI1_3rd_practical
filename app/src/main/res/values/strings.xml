@@ -5,6 +5,7 @@
     <string name="go_to_2_nd">Go to 2-nd</string>
     <string name="first_activity">First Activity</string>
     <string name="textview">Second Activity</string>
+    <string name="spinner">Select mode</string>
 
     <string-array name="modes">
         <item>Default</item>
